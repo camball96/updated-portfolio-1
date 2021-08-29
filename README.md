@@ -14,7 +14,11 @@ If you are opting out of career services, this is _still a required assignment_.
 
 * Submit an updated LinkedIn profile
 
+## Technologies
+For my portfolio, the only tech I have used is Bootstrap. Besides that I have chosen to leave it as just standard HTML and CSS
+
 ## Screenshot
 ![Optional Text](./assets/img/screenshot.png)
 
 ## Live Url
+https://camball96.github.io/updated-portfolio-1/
