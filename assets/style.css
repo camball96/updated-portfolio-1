@@ -1,0 +1,74 @@
+body {
+
+}
+
+.heroImage {
+    background-image: url("./img/contact.jpg"); 
+    background-color: #cccccc;
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.heroText {
+    display: flex;
+    flex-direction: column;
+    text-align: end;
+    padding-right: 40px;
+    padding-top: 100px;
+}
+
+.container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.sectionBody {
+    border-left: 5px teal solid;
+}
+
+.card1 {
+    background-color: white;
+    background-image: url("./img/contact.jpg");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    height: 400px;
+    color: white;
+    text-align: end;
+}
+.card2 {
+    background-color: white;
+    background-image: url("./img/annidex.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    height: 400px;
+    color: black;
+    text-align: start;
+    
+}
+.card3 {
+    background-color: white;
+    background-image: url("./img/passwordGen.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px grey solid;
+    border-radius: 5px;
+    height: 400px;
+    color: black;
+    text-align: start;
+    
+}
+
+.otherProjects {
+    display: flex;
+    flex-direction: row;
+    margin-left: 212px;
+    margin-top: 50px;
+
+}
